@@ -1,0 +1,6 @@
+mk|Mortal Kombat
+mk2|Mortal Kombat 2
+mk3|Mortal Kombat 3
+umk3|Mortal Kombat 3, Ultimate
+nbajam|NBA Jam
+nbajamte|NBA Jam: Tournament Edition

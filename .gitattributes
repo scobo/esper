@@ -1,0 +1,34 @@
+# Set the default behavior, in case people don't have core.autocrlf set.
+* text=auto
+
+# Declare files that will always have LF line endings on checkout.
+.gitattributes text eol=lf
+.gitignore text eol=lf
+*.cfg text eol=lf
+*.conf text eol=lf
+*.ini text eol=lf
+*.lpl text eol=lf
+*.lpl.bak text eol=lf
+*.sample text eol=lf
+*.sh text eol=lf
+*.txt text eol=lf
+*.xml text eol=lf
+LICENSE text eol=lf
+README text eol=lf
+README.md text eol=lf
+
+# Declare files that will always have CRLF line endings on checkout.
+NstDatabase.xml text eol=crlf
+System/Databases/*.xml text eol=crlf
+System/Machines/**/*.ini text eol=crlf
+System/Machines/**/*.txt text eol=crlf
+
+# Denote all files that are truly binary and should not be modified.
+*.png binary
+*.bin binary
+*.dat binary
+*.img binary
+*.pce binary
+*.rom binary
+*.zim binary
+*.zip binary

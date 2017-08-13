@@ -1,0 +1,24 @@
+# Configuration
+ROMs/downloads/romdir.txt
+
+# Content history
+Configfiles/**/*
+!Configfiles/autostart.sh
+!Configfiles/retroarch/
+Configfiles/retroarch/*
+!Configfiles/retroarch/retroarch.cfg
+!Configfiles/retroarch/retroarch-core-options.cfg
+
+# Save files
+Savefiles/**/*
+!Savefiles/FB Alpha/*
+!Savefiles/MAME 2003/*
+
+# BIOS files
+System/**/*.bin
+System/**/*.dat
+System/**/*.img
+System/**/*.pce
+System/**/*.rom
+System/**/*.zim
+System/**/*.zip
