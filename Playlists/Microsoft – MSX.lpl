@@ -6,19 +6,19 @@ MSX/SVI/ColecoVision/SG-1000 (blueMSX)
 Microsoft – MSX.lpl
 /storage/roms/Microsoft - MSX/Parodius (Japan).zip#Parodius (Japan).mx1
 Parodius: The Octopus Saves the Earth [JP]
-DETECT
-DETECT
+/tmp/cores/bluemsx_libretro.so
+MSX/SVI/ColecoVision/SG-1000 (blueMSX)
 68DEA3F0|crc
 Microsoft – MSX.lpl
 /storage/roms/Microsoft - MSX/Penguin Adventure (Japan, Europe).zip#Penguin Adventure (Japan, Europe).mx1
 Penguin Adventure [EU, JP]
-DETECT
-DETECT
+/tmp/cores/bluemsx_libretro.so
+MSX/SVI/ColecoVision/SG-1000 (blueMSX)
 0F6418D3|crc
 Microsoft – MSX.lpl
 /storage/roms/Microsoft - MSX/Zanac (Japan).zip#Zanac (Japan).mx1
 Zanac [JP]
-DETECT
-DETECT
+/tmp/cores/bluemsx_libretro.so
+MSX/SVI/ColecoVision/SG-1000 (blueMSX)
 425E0D34|crc
 Microsoft – MSX.lpl

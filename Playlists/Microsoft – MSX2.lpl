@@ -6,31 +6,31 @@ C29EDD84|crc
 Microsoft – MSX2.lpl
 /storage/roms/Microsoft - MSX2/Metal Gear (Japan).zip#Metal Gear (Japan).mx2
 Metal Gear 1 [JP]
-DETECT
-DETECT
+/tmp/cores/bluemsx_libretro.so
+MSX/SVI/ColecoVision/SG-1000 (blueMSX)
 FAFE1303|crc
 Microsoft – MSX2.lpl
 /storage/roms/Microsoft - MSX2/Metal Gear 2 - Solid Snake (Japan).zip#Metal Gear 2 - Solid Snake (Japan).mx2
 Metal Gear 2: Solid Snake [JP]
-DETECT
-DETECT
+/tmp/cores/bluemsx_libretro.so
+MSX/SVI/ColecoVision/SG-1000 (blueMSX)
 18B1F34B|crc
 Microsoft – MSX2.lpl
 /storage/roms/Microsoft - MSX2/Space Manbow (Japan).zip#Space Manbow (Japan).mx2
 Space Manbow [JP]
-DETECT
-DETECT
+/tmp/cores/bluemsx_libretro.so
+MSX/SVI/ColecoVision/SG-1000 (blueMSX)
 27405EED|crc
 Microsoft – MSX2.lpl
 /storage/roms/Microsoft - MSX2/Vampire Killer (Japan, Europe).zip#Vampire Killer (Japan, Europe).mx2
 Vampire Killer [EU, JP]
-DETECT
-DETECT
+/tmp/cores/bluemsx_libretro.so
+MSX/SVI/ColecoVision/SG-1000 (blueMSX)
 5953D084|crc
 Microsoft – MSX2.lpl
 /storage/roms/Microsoft - MSX2/Zanac Ex (Japan).zip#Zanac Ex (Japan).mx2
 Zanac EX [JP]
-DETECT
-DETECT
+/tmp/cores/bluemsx_libretro.so
+MSX/SVI/ColecoVision/SG-1000 (blueMSX)
 D153B2F2|crc
 Microsoft – MSX2.lpl
