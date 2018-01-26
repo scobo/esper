@@ -9,7 +9,7 @@
 * BIOS files for `./System/Databases` and `./System/Machines` can be found at [bluemsx.com](http://www.bluemsx.com/)
 * Samples for `./System/mame2003/samples` can be found at [samples.mameworld.info](http://samples.mameworld.info/)
 * Instructions for making DonPachi samples for `./System/fba/samples` can be found at [pastebin.com/RD2iM9KG](https://pastebin.com/RD2iM9KG)
-* Music files for `./ROMs/DOOM` can be found at [sc55.duke4.net](http://sc55.duke4.net/games.php
+* Music files for `./ROMs/DOOM` can be found at [sc55.duke4.net](http://sc55.duke4.net/games.php)
 * Music files for `./ROMs/Quake` can be found at [http://neogeographica.com](http://neogeographica.com/site/pages/guides/soundtrack_solutions.html)
 
 ## System
