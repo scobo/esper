@@ -1233,6 +1233,7 @@
     ./ROMs/Nintendo - Game Boy/Kirby's Dream Land 2 (USA, Europe) (SGB Enhanced).zip
     ./ROMs/Nintendo - Game Boy/Kirby's Pinball Land (USA, Europe).zip
     ./ROMs/Nintendo - Game Boy/Legend of Zelda, The - Link's Awakening (USA, Europe) (Rev B).zip
+    ./ROMs/Nintendo - Game Boy/Lemmings (USA).zip
     ./ROMs/Nintendo - Game Boy/Mega Man - Dr. Wily's Revenge (USA).zip
     ./ROMs/Nintendo - Game Boy/Mega Man II (USA).zip
     ./ROMs/Nintendo - Game Boy/Mega Man III (USA).zip
@@ -1390,6 +1391,7 @@
     ./ROMs/Nintendo - Game Boy Color/Legend of Zelda, The - Oracle of Ages (USA).zip
     ./ROMs/Nintendo - Game Boy Color/Legend of Zelda, The - Oracle of Seasons (USA).zip
     ./ROMs/Nintendo - Game Boy Color/Lufia - The Legend Returns (USA).zip
+    ./ROMs/Nintendo - Game Boy Color/Lemmings (USA).zip
     ./ROMs/Nintendo - Game Boy Color/Mario Golf (USA).zip
     ./ROMs/Nintendo - Game Boy Color/Mario Tennis (USA).zip
     ./ROMs/Nintendo - Game Boy Color/Mega Man Xtreme (USA, Europe).zip
@@ -1502,6 +1504,7 @@
     ./ROMs/Nintendo - Nintendo Entertainment System/Kung Fu (Japan, USA).zip
     ./ROMs/Nintendo - Nintendo Entertainment System/Legacy of the Wizard (USA).zip
     ./ROMs/Nintendo - Nintendo Entertainment System/Legend of Zelda, The (USA) (Rev B).zip
+    ./ROMs/Nintendo - Nintendo Entertainment System/Lemmings (USA).zip
     ./ROMs/Nintendo - Nintendo Entertainment System/Life Force (USA).zip
     ./ROMs/Nintendo - Nintendo Entertainment System/Lode Runner (USA).zip
     ./ROMs/Nintendo - Nintendo Entertainment System/Mario Bros. (USA) (GameCube Edition).zip
@@ -1602,7 +1605,7 @@
     ./ROMs/Nintendo - Super Nintendo Entertainment System/Donkey Kong Country 3 - Dixie Kong's Double Trouble! (USA) (En,Fr).zip
     ./ROMs/Nintendo - Super Nintendo Entertainment System/Dragon Quest V - Tenkuu no Hanayome (Japan).zip
     ./ROMs/Nintendo - Super Nintendo Entertainment System/Dragon Quest VI - Maboroshi no Daichi (Japan).zip
-    ./ROMs/Nintendo - Super Nintendo Entertainment System/E.V.O. - Search for Eden (USA).sfc.zip
+    ./ROMs/Nintendo - Super Nintendo Entertainment System/E.V.O. - Search for Eden (USA).zip
     ./ROMs/Nintendo - Super Nintendo Entertainment System/EarthBound (USA).zip
     ./ROMs/Nintendo - Super Nintendo Entertainment System/Earthworm Jim (USA).zip
     ./ROMs/Nintendo - Super Nintendo Entertainment System/Earthworm Jim 2 (USA).zip
@@ -1639,6 +1642,8 @@
     ./ROMs/Nintendo - Super Nintendo Entertainment System/Langrisser, Der (Japan) (Rev 1).zip
     ./ROMs/Nintendo - Super Nintendo Entertainment System/Legend (USA).zip
     ./ROMs/Nintendo - Super Nintendo Entertainment System/Legend of Zelda, The - A Link to the Past (USA).zip
+    ./ROMs/Nintendo - Super Nintendo Entertainment System/Lemmings (USA) (Rev 1).zip
+    ./ROMs/Nintendo - Super Nintendo Entertainment System/Lemmings 2 - The Tribes (USA).zip
     ./ROMs/Nintendo - Super Nintendo Entertainment System/Liberty or Death (USA).zip
     ./ROMs/Nintendo - Super Nintendo Entertainment System/Lion King, The (USA).zip
     ./ROMs/Nintendo - Super Nintendo Entertainment System/Lost Vikings 2 (USA).zip
@@ -1664,8 +1669,8 @@
     ./ROMs/Nintendo - Super Nintendo Entertainment System/NHLPA Hockey 93 (USA).zip
     ./ROMs/Nintendo - Super Nintendo Entertainment System/Ninja Gaiden Trilogy (USA).zip
     ./ROMs/Nintendo - Super Nintendo Entertainment System/Ogre Battle - The March of the Black Queen (USA).zip
-    ./ROMs/Nintendo - Super Nintendo Entertainment System/P.T.O. - Pacific Theater of Operations (USA).sfc.zip
-    ./ROMs/Nintendo - Super Nintendo Entertainment System/P.T.O. II - Pacific Theater of Operations (USA).sfc.zip
+    ./ROMs/Nintendo - Super Nintendo Entertainment System/P.T.O. - Pacific Theater of Operations (USA).zip
+    ./ROMs/Nintendo - Super Nintendo Entertainment System/P.T.O. II - Pacific Theater of Operations (USA).zip
     ./ROMs/Nintendo - Super Nintendo Entertainment System/Parodius Da! - Shinwa kara Owarai e (Japan).zip
     ./ROMs/Nintendo - Super Nintendo Entertainment System/Phalanx (USA).zip
     ./ROMs/Nintendo - Super Nintendo Entertainment System/Pilotwings (USA).zip
@@ -1690,6 +1695,7 @@
     ./ROMs/Nintendo - Super Nintendo Entertainment System/Sparkster (USA).zip
     ./ROMs/Nintendo - Super Nintendo Entertainment System/Star Fox (USA) (Rev 2).zip
     ./ROMs/Nintendo - Super Nintendo Entertainment System/Star Fox 2 (Japan) (Proto 2).zip
+    ./ROMs/Nintendo - Super Nintendo Entertainment System/Star Fox 2 (USA).zip
     ./ROMs/Nintendo - Super Nintendo Entertainment System/Stunt Race FX (USA) (Rev 1).zip
     ./ROMs/Nintendo - Super Nintendo Entertainment System/Sunset Riders (USA).zip
     ./ROMs/Nintendo - Super Nintendo Entertainment System/Super Adventure Island (USA).zip
@@ -1712,7 +1718,7 @@
     ./ROMs/Nintendo - Super Nintendo Entertainment System/Super Nova (USA).zip
     ./ROMs/Nintendo - Super Nintendo Entertainment System/Super Punch-Out!! (USA).zip
     ./ROMs/Nintendo - Super Nintendo Entertainment System/Super R-Type (USA).zip
-    ./ROMs/Nintendo - Super Nintendo Entertainment System/Super Smash T.V. (USA).sfc.zip
+    ./ROMs/Nintendo - Super Nintendo Entertainment System/Super Smash T.V. (USA).zip
     ./ROMs/Nintendo - Super Nintendo Entertainment System/Super Star Wars (USA) (Rev 1).zip
     ./ROMs/Nintendo - Super Nintendo Entertainment System/Super Star Wars - Return of the Jedi (USA) (Rev 1).zip
     ./ROMs/Nintendo - Super Nintendo Entertainment System/Super Star Wars - The Empire Strikes Back (USA) (Rev 1).zip
@@ -1723,9 +1729,9 @@
     ./ROMs/Nintendo - Super Nintendo Entertainment System/Tecmo Super Bowl (USA).zip
     ./ROMs/Nintendo - Super Nintendo Entertainment System/Teenage Mutant Ninja Turtles IV - Turtles in Time (USA).zip
     ./ROMs/Nintendo - Super Nintendo Entertainment System/Tetris Attack (USA) (En,Ja).zip
-    ./ROMs/Nintendo - Super Nintendo Entertainment System/Tetris _ Dr. Mario (USA).sfc.zip
+    ./ROMs/Nintendo - Super Nintendo Entertainment System/Tetris _ Dr. Mario (USA).zip
     ./ROMs/Nintendo - Super Nintendo Entertainment System/Thunder Spirits (USA).zip
-    ./ROMs/Nintendo - Super Nintendo Entertainment System/U.N. Squadron (USA).sfc.zip
+    ./ROMs/Nintendo - Super Nintendo Entertainment System/U.N. Squadron (USA).zip
     ./ROMs/Nintendo - Super Nintendo Entertainment System/Umihara Kawase (Japan).zip
     ./ROMs/Nintendo - Super Nintendo Entertainment System/Wario's Woods (USA).zip
     ./ROMs/Nintendo - Super Nintendo Entertainment System/Wild Guns (USA).zip
@@ -1882,6 +1888,8 @@
     ./ROMs/Sega - Mega Drive - Genesis/Jurassic Park - Rampage Edition (USA, Europe).zip
     ./ROMs/Sega - Mega Drive - Genesis/Kid Chameleon (USA, Europe).zip
     ./ROMs/Sega - Mega Drive - Genesis/Langrisser II (Japan) (v1.2).zip
+    ./ROMs/Sega - Mega Drive - Genesis/Lemmings (Japan, USA) (v1.1).zip
+    ./ROMs/Sega - Mega Drive - Genesis/Lemmings 2 - The Tribes (USA).zip
     ./ROMs/Sega - Mega Drive - Genesis/Liberty or Death (USA).zip
     ./ROMs/Sega - Mega Drive - Genesis/Lightening Force - Quest for the Darkstar (USA).zip
     ./ROMs/Sega - Mega Drive - Genesis/Lion King, The (World).zip
