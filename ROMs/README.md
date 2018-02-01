@@ -515,7 +515,6 @@
     ./ROMs/DOOM/plutonia/messg2.mp3
     ./ROMs/DOOM/plutonia/openin.mp3
     ./ROMs/DOOM/plutonia/plutonia.wad
-    ./ROMs/DOOM/plutonia/prboom.cfg
     ./ROMs/DOOM/plutonia/prboom.wad
     ./ROMs/DOOM/plutonia/read_m.mp3
     ./ROMs/DOOM/plutonia/romer2.mp3
@@ -533,7 +532,6 @@
     ./ROMs/DOOM/plutonia/theda3.mp3
     ./ROMs/DOOM/plutonia/the_da.mp3
     ./ROMs/DOOM/plutonia/ultima.mp3
-    ./ROMs/DOOM/prboom.cfg
     ./ROMs/DOOM/prboom.wad
     ./ROMs/DOOM/read_m.mp3
     ./ROMs/DOOM/romer2.mp3
@@ -570,7 +568,6 @@
     ./ROMs/DOOM/tnt/messag.mp3
     ./ROMs/DOOM/tnt/messg2.mp3
     ./ROMs/DOOM/tnt/openin.mp3
-    ./ROMs/DOOM/tnt/prboom.cfg
     ./ROMs/DOOM/tnt/prboom.wad
     ./ROMs/DOOM/tnt/read_m.mp3
     ./ROMs/DOOM/tnt/romer2.mp3
@@ -1209,6 +1206,14 @@
     ./ROMs/NEC - PC Engine CD - TurboGrafx-CD
     ./ROMs/NEC - PC Engine CD - TurboGrafx-CD/Akumajou Dracula X - Chi no Rondo (Japan).bin
     ./ROMs/NEC - PC Engine CD - TurboGrafx-CD/Akumajou Dracula X - Chi no Rondo (Japan).cue
+    ./ROMs/NEC - PC Engine CD - TurboGrafx-CD/Ginga Fukei Densetsu Sapphire (Japan) (Reprint).cue
+    ./ROMs/NEC - PC Engine CD - TurboGrafx-CD/Ginga Fukei Densetsu Sapphire (Japan) (Reprint).iso
+    ./ROMs/NEC - PC Engine CD - TurboGrafx-CD/Seirei Senshi Spriggan (Japan).cue
+    ./ROMs/NEC - PC Engine CD - TurboGrafx-CD/Seirei Senshi Spriggan (Japan).iso
+    ./ROMs/NEC - PC Engine CD - TurboGrafx-CD/Spriggan Mark 2 - Re Terraform Project (Japan).cue
+    ./ROMs/NEC - PC Engine CD - TurboGrafx-CD/Spriggan Mark 2 - Re Terraform Project (Japan).iso
+    ./ROMs/NEC - PC Engine CD - TurboGrafx-CD/Ys Book I _ II - Ancient Ys Vanished (USA).bin
+    ./ROMs/NEC - PC Engine CD - TurboGrafx-CD/Ys Book I _ II - Ancient Ys Vanished (USA).cue
     ./ROMs/Nintendo - Family Computer Disk System
     ./ROMs/Nintendo - Family Computer Disk System/Yume Koujou Doki Doki Panic (Japan).zip
     ./ROMs/Nintendo - Game Boy
@@ -1760,7 +1765,6 @@
     ./ROMs/Quake1/hipnotic/music/track08.ogg
     ./ROMs/Quake1/hipnotic/music/track09.ogg
     ./ROMs/Quake1/hipnotic/pak0.pak
-    ./ROMs/Quake1/hipnotic/tracklist.cfg
     ./ROMs/Quake1/id1
     ./ROMs/Quake1/id1/config.cfg
     ./ROMs/Quake1/id1/music
@@ -1776,7 +1780,6 @@
     ./ROMs/Quake1/id1/music/track11.ogg
     ./ROMs/Quake1/id1/pak0.pak
     ./ROMs/Quake1/id1/pak1.pak
-    ./ROMs/Quake1/id1/tracklist.cfg
     ./ROMs/Quake1/rogue
     ./ROMs/Quake1/rogue/music
     ./ROMs/Quake1/rogue/music/track02.ogg
@@ -1788,7 +1791,6 @@
     ./ROMs/Quake1/rogue/music/track08.ogg
     ./ROMs/Quake1/rogue/music/track09.ogg
     ./ROMs/Quake1/rogue/pak0.pak
-    ./ROMs/Quake1/rogue/tracklist.cfg
     ./ROMs/Sega - 32X
     ./ROMs/Sega - 32X/After Burner Complete ~ After Burner (Japan, USA).zip
     ./ROMs/Sega - 32X/Chaotix ~ Knuckles' Chaotix (Japan, USA).zip
@@ -1829,6 +1831,25 @@
     ./ROMs/Sega - Master System - Mark III/Wonder Boy III - The Dragon's Trap (USA, Europe).zip
     ./ROMs/Sega - Master System - Mark III/Wonder Boy in Monster Land (USA, Europe).zip
     ./ROMs/Sega - Master System - Mark III/Ys - The Vanished Omens (USA, Europe).zip
+    ./ROMs/Sega - Mega-CD - Sega CD
+    ./ROMs/Sega - Mega-CD - Sega CD/Keio Flying Squadron (USA).bin
+    ./ROMs/Sega - Mega-CD - Sega CD/Keio Flying Squadron (USA).cue
+    ./ROMs/Sega - Mega-CD - Sega CD/Lunar - Eternal Blue (USA).bin
+    ./ROMs/Sega - Mega-CD - Sega CD/Lunar - Eternal Blue (USA).cue
+    ./ROMs/Sega - Mega-CD - Sega CD/Lunar - The Silver Star (USA).bin
+    ./ROMs/Sega - Mega-CD - Sega CD/Lunar - The Silver Star (USA).cue
+    ./ROMs/Sega - Mega-CD - Sega CD/Rise of the Dragon (USA).bin
+    ./ROMs/Sega - Mega-CD - Sega CD/Rise of the Dragon (USA).cue
+    ./ROMs/Sega - Mega-CD - Sega CD/Robo Aleste (USA).bin
+    ./ROMs/Sega - Mega-CD - Sega CD/Robo Aleste (USA).cue
+    ./ROMs/Sega - Mega-CD - Sega CD/Shining Force CD (USA).bin
+    ./ROMs/Sega - Mega-CD - Sega CD/Shining Force CD (USA).cue
+    ./ROMs/Sega - Mega-CD - Sega CD/Silpheed (USA).bin
+    ./ROMs/Sega - Mega-CD - Sega CD/Silpheed (USA).cue
+    ./ROMs/Sega - Mega-CD - Sega CD/Snatcher (USA).bin
+    ./ROMs/Sega - Mega-CD - Sega CD/Snatcher (USA).cue
+    ./ROMs/Sega - Mega-CD - Sega CD/Sonic CD (USA).bin
+    ./ROMs/Sega - Mega-CD - Sega CD/Sonic CD (USA).cue
     ./ROMs/Sega - Mega Drive - Genesis
     ./ROMs/Sega - Mega Drive - Genesis/Advanced Busterhawk Gleylancer (Japan).zip
     ./ROMs/Sega - Mega Drive - Genesis/Adventures of Batman _ Robin, The (USA).zip
@@ -2085,3 +2106,43 @@
     ./ROMs/SNK - Neo Geo/twinspri.zip
     ./ROMs/SNK - Neo Geo/wakuwak7.zip
     ./ROMs/SNK - Neo Geo/wjammers.zip
+    ./ROMs/Sony - PlayStation
+    ./ROMs/Sony - PlayStation/Breath of Fire III (USA) (Track 1).bin
+    ./ROMs/Sony - PlayStation/Breath of Fire III (USA) (Track 2).bin
+    ./ROMs/Sony - PlayStation/Breath of Fire III (USA).cue
+    ./ROMs/Sony - PlayStation/Breath of Fire IV (USA) (Track 1).bin
+    ./ROMs/Sony - PlayStation/Breath of Fire IV (USA) (Track 2).bin
+    ./ROMs/Sony - PlayStation/Breath of Fire IV (USA).cue
+    ./ROMs/Sony - PlayStation/Castlevania - Symphony of the Night (USA) (Track 1).bin
+    ./ROMs/Sony - PlayStation/Castlevania - Symphony of the Night (USA) (Track 2).bin
+    ./ROMs/Sony - PlayStation/Castlevania - Symphony of the Night (USA).cue
+    ./ROMs/Sony - PlayStation/Chrono Cross (USA) (Disc 1).bin
+    ./ROMs/Sony - PlayStation/Chrono Cross (USA) (Disc 1).cue
+    ./ROMs/Sony - PlayStation/Chrono Cross (USA) (Disc 2).bin
+    ./ROMs/Sony - PlayStation/Chrono Cross (USA) (Disc 2).cue
+    ./ROMs/Sony - PlayStation/Chrono Cross (USA).m3u
+    ./ROMs/Sony - PlayStation/Dragon Warrior VII (USA) (Disc 1).bin
+    ./ROMs/Sony - PlayStation/Dragon Warrior VII (USA) (Disc 1).cue
+    ./ROMs/Sony - PlayStation/Dragon Warrior VII (USA) (Disc 2).bin
+    ./ROMs/Sony - PlayStation/Dragon Warrior VII (USA) (Disc 2).cue
+    ./ROMs/Sony - PlayStation/Dragon Warrior VII (USA).m3u
+    ./ROMs/Sony - PlayStation/Final Fantasy Tactics (USA).bin
+    ./ROMs/Sony - PlayStation/Final Fantasy Tactics (USA).cue
+    ./ROMs/Sony - PlayStation/Front Mission 2 (JP) - hurontomitusiyon sekando.cue
+    ./ROMs/Sony - PlayStation/Front Mission 2 (JP) - hurontomitusiyon sekando.iso
+    ./ROMs/Sony - PlayStation/Front Mission 3 (USA).bin
+    ./ROMs/Sony - PlayStation/Front Mission 3 (USA).cue
+    ./ROMs/Sony - PlayStation/Gunners Heaven (Japan).bin
+    ./ROMs/Sony - PlayStation/Gunners Heaven (Japan).cue
+    ./ROMs/Sony - PlayStation/Mega Man 8 (USA) (Track 1).bin
+    ./ROMs/Sony - PlayStation/Mega Man 8 (USA) (Track 2).bin
+    ./ROMs/Sony - PlayStation/Mega Man 8 (USA) (Track 3).bin
+    ./ROMs/Sony - PlayStation/Mega Man 8 (USA).cue
+    ./ROMs/Sony - PlayStation/Mega Man X4 (USA).bin
+    ./ROMs/Sony - PlayStation/Mega Man X4 (USA).cue
+    ./ROMs/Sony - PlayStation/Mega Man X5 (USA).bin
+    ./ROMs/Sony - PlayStation/Mega Man X5 (USA).cue
+    ./ROMs/Sony - PlayStation/Mega Man X6 (USA) (v1.1).bin
+    ./ROMs/Sony - PlayStation/Mega Man X6 (USA) (v1.1).cue
+    ./ROMs/Sony - PlayStation/Parappa the Rapper (USA).bin
+    ./ROMs/Sony - PlayStation/Parappa the Rapper (USA).cue
